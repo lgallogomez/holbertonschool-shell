@@ -1,2 +1,1 @@
-#New repo
 Holbertonschool-shell
