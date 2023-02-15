@@ -1,0 +1,1 @@
+This file stands the shell basics excercises fo the holberton school program week 1
