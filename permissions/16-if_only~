@@ -1,0 +1,1 @@
+#!/bin/bash chown vincent ./hello if o=guillaume
