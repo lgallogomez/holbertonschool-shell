@@ -1,2 +1,3 @@
 #!/bin/bash
-chown vincent ./hello if o=guillaume
+if [[ -f hello && $(stat -c "%U" hello) == "guillaume" ]]; then sudo chown vincent hello fi
+
