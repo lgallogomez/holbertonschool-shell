@@ -1,0 +1,1 @@
+#!/bin/bash ln -s ./ _hello chown vincent:staff ./_hello
