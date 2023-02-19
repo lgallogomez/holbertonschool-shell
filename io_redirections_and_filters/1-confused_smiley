@@ -1,3 +1,2 @@
 #!/bin/bash
-echo -e "I'm a text with a single quote and a \"double quote\""
-
+echo "I'm a text with a single quote and a \"double quote\"" 
