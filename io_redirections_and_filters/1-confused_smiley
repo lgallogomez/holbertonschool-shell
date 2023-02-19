@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "I'm a text with a single quote and a \"double quote\"" 
+echo '"(Ôo)'\'
