@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'input' | tr -c 'AC' 'Ze'
+cat | tr -c 'AC' 'Ze'
