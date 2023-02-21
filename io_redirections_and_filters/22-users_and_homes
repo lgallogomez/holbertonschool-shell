@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -oE '^[^:]+|[^:]+$' /etc/passwd | paste -d: - - | sort
+cut -d ':' -f 1,6 /etc/passwd | sort
