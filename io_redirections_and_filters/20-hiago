@@ -1,2 +1,2 @@
 #!/bin/bash
-cat |tr "cC" "," | cut -d"," -f2,4
+cat | tr 'cC' ',' | cut -d',' -f2,4
