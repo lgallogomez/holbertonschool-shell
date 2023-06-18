@@ -1,0 +1,1 @@
+Project were i will be resolving different problems around input, output redirections and filters in the linux shell 
