@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | grep '^-' | sort -k 6,7 -r
+ls -t | grep '^-' | cut -d ' ' -f 9-
