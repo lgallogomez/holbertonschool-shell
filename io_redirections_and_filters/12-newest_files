@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ft */ | head -n 1
+ls -lt | grep '^-' | sort -k 6,7 -r
