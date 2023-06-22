@@ -1,0 +1,1 @@
+This project is all about working the concepts around Shell initialization files, variables, expansions, how to perform aritmetic operations using the shell and finally how to use the alias command. 
